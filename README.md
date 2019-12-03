@@ -1,4 +1,5 @@
-# spidervue
+# SpiderVue
+Codigo frontend basado en la tecnologia de Vue.js, La cual consumira datos de la api de Django mediante axios
 
 ## Project setup
 ```
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
